@@ -27,7 +27,6 @@ h1 > i {
     .nav-bar {
         display: flex;
         height: 10vh;
-        border-radius: 10px;
         justify-content: space-between;
         align-items: center;
         /* I was watching reels in instagram and I saw glassmorphism.
@@ -88,7 +87,6 @@ nav > div {
         width: 98%;
         justify-content: center;
         align-items: center;
-        border-radius: 10px;
         margin: auto;
         transition: 2s;
         background: rgba( 255, 255, 255, 0.65 );
@@ -181,7 +179,6 @@ nav > div {
     width: 54%;
     flex-direction: column;
     margin: auto;
-    border-radius: 10px;
     background: rgba( 255, 255, 255, 0.65 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 5px );
@@ -333,7 +330,6 @@ nav > div {
         width: 20%;
         height: 80%;
         margin: auto;
-        border-radius: 10px;
         background: rgba( 255, 255, 255, 0.8 );
         box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
         backdrop-filter: blur( 4px );
